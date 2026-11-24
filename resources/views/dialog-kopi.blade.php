@@ -458,7 +458,7 @@
             <div class="border-top pt-3" style="border-color: var(--border-soft) !important;">
                 <div class="mb-2">
                     <label class="form-label small fw-semibold">Nama Pemesan</label>
-                    <input type="text" id="customerName" class="form-control form-control-sm" placeholder="Contoh: Budi">
+                    <input type="text" id="customerName" class="form-control form-control-sm" placeholder="Contoh: Ria">
                 </div>
                 <div class="mb-2">
                     <label class="form-label small fw-semibold">Tipe Pesanan</label>
@@ -470,7 +470,7 @@
                 </div>
                 <div class="mb-3">
                     <label class="form-label small fw-semibold">Catatan (Opsional)</label>
-                    <input type="text" id="orderNote" class="form-control form-control-sm" placeholder="Contoh: Less sugar, es dikit">
+                    <input type="text" id="orderNote" class="form-control form-control-sm" placeholder="Contoh: banyakin es, es dikit">
                 </div>
 
                 <div class="d-flex justify-content-between fw-bold fs-5 mb-3">
