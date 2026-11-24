@@ -231,7 +231,7 @@
 <body> 
 
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-md navbar-senja sticky-top py-3">
+    <nav class="navbar navbar-expand-md navbar-dialog sticky-top py-3">
         <div class="container">
             <a class="navbar-brand font-serif fw-bold fs-4 text-dark" href="#">
                 ☕ {{ $kedai['nama'] }}
@@ -255,7 +255,7 @@
         <div class="hero-box p-4 p-md-5">
             <div class="row align-items-center g-4">
                 <div class="col-lg-7">
-                    <span class="badge-soft d-inline-block mb-3">Kedai kopi</span>
+                    <span class="badge-soft d-inline-block mb-3">gerobak/Kedai kopi</span>
                     <h1 class="display-5 fw-bold mb-3">{{ $kedai['nama'] }}</h1>
                     <p class="fs-5 text-secondary mb-4">{{ $kedai['tagline'] }}</p>
                     <div class="d-flex flex-wrap gap-2 mb-4">
@@ -391,7 +391,7 @@
                 <div class="col-12">
                 <div class="hero-box p-4 p-md-5 h-100">
                     <small class="text-uppercase fw-semibold" style="color: var(--caramel); letter-spacing: 1px;">Cerita kami</small>
-                    <h2 class="fw-bold mt-1 mb-3">Tentang Kopi Senja</h2>
+                    <h2 class="fw-bold mt-1 mb-3">Tentang dialog kopi</h2>
                     <p class="text-secondary lh-lg mb-4">
                         Dialog kopi berawal dari jualan dengan gerobak listrik sampai akhirnya menjadi cabang kedai kecil di jalan hasanudin. dari yang setiap pagi sampai sore saya berjualan di pinggir jalan atau depan ruko akhirya saya bekerja sama dengan teman saya yang punya kedai.
                     </p>
